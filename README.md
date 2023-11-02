@@ -1,4 +1,4 @@
-# ApiRest-SpringBoot-Taller3
+# ApiRest-SpringBoot-JAVA para el control de subida de documentos de un alumno
 
 La API proporcionará acceso a datos relacionados con los alumnos, lo que permitirá definir su perfil personal y gestionar documentos importantes, como acta de nacimiento, CURP y comprobante de domicilio.
 
